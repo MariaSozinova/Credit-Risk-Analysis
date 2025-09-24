@@ -42,6 +42,8 @@ The project resulted in **three Tableau dashboards**:
    - Home ownership, employment, and utilization impact on default  
    - Heatmaps combining multiple risk drivers
 
+   ![](https://github.com/MariaSozinova/Credit-Risk-Analysis/blob/main/assets/Portfolio%20Snapshot-2.png)
+
 🔗 **Interactive Tableau dashboards:**  
 👉 [View on Tableau Public](https://public.tableau.com/views/CreditRiskAnalylsis/BorrowerRiskProfile)
 
