@@ -1,5 +1,3 @@
-# Credit-Risk-Analysis
-
 # Credit Risk Analysis — Onyx Data Challenge
 
 This repository contains my submission for the **Onyx Data Challenge — Credit Risk Analysis**.  
