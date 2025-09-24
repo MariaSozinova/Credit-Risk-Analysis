@@ -5,6 +5,8 @@
 This repository contains my submission for the **Onyx Data Challenge — Credit Risk Analysis**.  
 The project focuses on understanding **which borrowers are most likely to default and why**, in order to support **safer and fairer lending decisions**.
 
+Dataset not included — please download from [Onyx Data Challenge](https://datadna.onyxdata.co.uk/challenges/)
+
 ---
 
 ## 🚀 Project Overview
