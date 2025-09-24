@@ -44,6 +44,10 @@ The project resulted in **three Tableau dashboards**:
 
    ![](https://github.com/MariaSozinova/Credit-Risk-Analysis/blob/main/assets/Portfolio%20Snapshot-2.png)
 
+   ![](https://github.com/MariaSozinova/Credit-Risk-Analysis/blob/main/assets/Risk%20Analysis-2.png)
+
+   ![](https://github.com/MariaSozinova/Credit-Risk-Analysis/blob/main/assets/Borrower%20Risk%20Profile-2.png)
+
 🔗 **Interactive Tableau dashboards:**  
 👉 [View on Tableau Public](https://public.tableau.com/views/CreditRiskAnalylsis/BorrowerRiskProfile)
 
