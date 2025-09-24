@@ -1,6 +1,6 @@
 # Credit-Risk-Analysis
 
-# 🏦 Credit Risk Analysis — Onyx Data Challenge
+# Credit Risk Analysis — Onyx Data Challenge
 
 This repository contains my submission for the **Onyx Data Challenge — Credit Risk Analysis**.  
 The project focuses on understanding **which borrowers are most likely to default and why**, in order to support **safer and fairer lending decisions**.
@@ -9,7 +9,7 @@ Dataset not included — please download from [Onyx Data Challenge](https://data
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Banks face a critical challenge: deciding who to lend to and at what terms while controlling default risk.  
 Using a dataset of ~32,000 customers and their loan details, this analysis answers:
