@@ -1,5 +1,7 @@
 # Credit Risk Analysis — Onyx Data Challenge
 
+EDA and Visualization (Python and Tableau)
+
 This repository contains my submission for the **Onyx Data Challenge — Credit Risk Analysis**.  
 The project focuses on understanding **which borrowers are most likely to default and why**, in order to support **safer and fairer lending decisions**.
 
